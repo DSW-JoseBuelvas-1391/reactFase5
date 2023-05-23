@@ -20,6 +20,8 @@ function App() {
       <div className="card">
         <h3>Integrantes</h3>
 
+        <h6>Enlace Proyecto</h6>
+
         <h4>Jose David Buelvas Cuello</h4>
       </div>
       <p className="read-the-docs">
