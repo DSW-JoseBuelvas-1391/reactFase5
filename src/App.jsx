@@ -23,6 +23,7 @@ function App() {
         <h4>Jose David Buelvas Cuello</h4>
 
         <h6>Enlace Proyecto</h6>
+        <a href="index.html">Hacer Clic aqui para visualizar el Proyecto</a>
 
       </div>
       <p className="read-the-docs">
